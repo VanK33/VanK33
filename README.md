@@ -1,7 +1,7 @@
-### Hi there 👋, Welcome to VanK33's space
+### Hi there 👋, Welcome to VanK33's Workspace
 
 🔭 I’m currently working on:
-- Pick Your Dishes, my first capstone project
+- Pick Your Dishes, my first capstone project, to help user quickly locate their 🍖desired recipe🍖
 - [React](https://github.com/VanK33/PickYourDish) and [API](https://github.com/VanK33/PickYourDish-API)
 
 
