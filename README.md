@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 - Pick Your Dishes, my first capstone project
 - [React](https://github.com/VanK33/PickYourDish) and [API](https://github.com/VanK33/PickYourDish-API)
-I'm looking to collabroate on populate the database! So people can start using it
+
 
 📫 How to reach me:
 - [LinkedIn](www.linkedin.com/in/jeff-yifei-ma)
