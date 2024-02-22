@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer with a focus on creating engaging and user
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanK33&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Get in Touch
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jeff-yifei-ma)
+- LinkedIn: [Yifei Ma](https://www.linkedin.com/in/jeff-yifei-ma)
 - Email: [jeff.ma713@gmail.com](mailto:jeff.ma713@gmail.com.com)
 
 #### 💻 Technologies & Tools
