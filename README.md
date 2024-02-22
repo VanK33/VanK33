@@ -2,9 +2,9 @@
 ### Hi there 👋, Welcome to VanK33's Workspace
 
 I'm a passionate Full Stack Developer with a focus on creating engaging and user-friendly applications.
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
-    <img src="https://github-readme-stats.vercel.app/api?username=VanK33&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" />
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+    <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
+    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=VanK33&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" />
 </div>
 
 
