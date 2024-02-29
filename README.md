@@ -1,23 +1,28 @@
 
-### Hi there 👋, Welcome to VanK33's Workspace
+### Hi there 👋, Welcome to VanK33's Workspace ###
 
-I'm a passionate Full Stack Developer with a focus on creating engaging and user-friendly applications.
+#### About ####
+
+I am Yifei Ma, a Junior Full Stack Developer based in Vancouver, BC, Canada.
+
+With expertise in React, Node.js, MySQL, JavaScript, and Excel VBA, I bring a diverse skill set to my role as a Teaching Assistant at BrainStation. This position allows me to fully immerse myself in the field, providing numerous opportunities to refine my code review skills and mentor aspiring developers. I am genuinely interested in leveraging my toolkit for real-world applications, using my methodical problem-solving abilities to make a tangible impact. My pursuit of practical experience reflects my commitment to continuous learning and professional growth, as I strive to stay at the forefront of technological advancements.
+
+### Plans 2024 Plans ###
+
+I'm resuming development on [Pick Your Dish](https://github.com/VanK33/PickYourDish) and its corresponding API, [Pick Your Dish - API](https://github.com/VanK33/PickYourDish-api), after a lengthy period of sick leave. My focus will be on two main aspects:
+
+1. Completing the Existing Project: This includes finalizing the registration page, which is already prepared for API integration but lacks full implementation on the front end. Additionally, I plan to enhance the user management page to fully support profile picture uploads.
+
+2. Enhancing Functionality: I aim to add search and save capabilities to the backend, allowing users to interact with recipes more dynamically. Furthermore, considering improvements to the front-end visual looking is also on my agenda.
+
+My goal is to achieve these objectives by the first quarter before introducing additional features. In terms of broader project enhancements, I'm looking to apply Progressive Web App (PWA) technology to make the existing project accessible to users on various platforms, including mobile, without relying directly on React Native. Meanwhile, learning React Native and C# is on my to-do list for the first half of 2024.
+
+
 <div style="display: flex; justify-content: flex-start; align-items: center;">
-    <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
-    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=VanK33&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" />
+    <img style="width: 40%, height: 100px" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
+    <img style="width: 40%, height: 100px" src="https://github-readme-stats.vercel.app/api?username=VanK33&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" />
 </div>
 
-
-#### 🌟 Featured Projects
-
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 10px;">
-  <p><a href="https://github.com/VanK33/PersonalPortfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanK33&repo=PersonalPortfolio&show_icons=true&theme=radical" alt="Personal Portfolio" /></a></p>
-  <p><a href="https://github.com/VanK33/PickYourDish"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanK33&repo=PickYourDish&show_icons=true&theme=radical" alt="Pick Your Dish" /></a></p>
-  <p><a href="https://github.com/VanK33/PickYourDish-API"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanK33&repo=PickYourDish-API&show_icons=true&theme=radical" alt="Pick Your Dish API" /></a></p>
-</div>
-
-#### 📊 Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanK33&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Get in Touch
 - LinkedIn: [Yifei Ma](https://www.linkedin.com/in/jeff-yifei-ma)
