@@ -1,13 +1,13 @@
 
-### Hi there 👋, Welcome to VanK33's Workspace ###
+# Hi there 👋, I'm Yifei, welcome to my Workspace #
 
-#### About ####
+## **Junior Full Stack Developer - Vancouver, BC** ##
 
-I am Yifei Ma, a Junior Full Stack Developer based in Vancouver, BC, Canada.
+### 🙋🏻‍♂️ About Me ###
 
 With expertise in React, Node.js, MySQL, JavaScript, and Excel VBA, I bring a diverse skill set to my role as a Teaching Assistant at BrainStation. This position allows me to fully immerse myself in the field, providing numerous opportunities to refine my code review skills and mentor aspiring developers. I am genuinely interested in leveraging my toolkit for real-world applications, using my methodical problem-solving abilities to make a tangible impact. My pursuit of practical experience reflects my commitment to continuous learning and professional growth, as I strive to stay at the forefront of technological advancements.
 
-### Plans 2024 Plans ###
+### 🏗️ Plans and Horizon ###
 
 I'm resuming development on [Pick Your Dish](https://github.com/VanK33/PickYourDish) and its corresponding API, [Pick Your Dish - API](https://github.com/VanK33/PickYourDish-api), after a lengthy period of sick leave. My focus will be on two main aspects:
 
@@ -24,11 +24,12 @@ My goal is to achieve these objectives by the first quarter before introducing a
 </div>
 
 
-#### 📫 Get in Touch
+### 📫 Get in Touch
 - LinkedIn: [Yifei Ma](https://www.linkedin.com/in/jeff-yifei-ma)
 - Email: [jeff.ma713@gmail.com](mailto:jeff.ma713@gmail.com.com)
+- Personal Page: [devs.vankee.space](https://devs.vankee.space)
 
-#### 💻 Technologies & Tools
+### 💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
