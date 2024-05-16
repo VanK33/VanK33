@@ -9,13 +9,9 @@ With expertise in React, Node.js, MySQL, JavaScript, and Excel VBA, I bring a di
 
 ### 🏗️ Plans and Horizon ###
 
-I'm resuming development on [Pick Your Dish](https://github.com/VanK33/PickYourDish) and its corresponding API, [Pick Your Dish - API](https://github.com/VanK33/PickYourDish-api), after a lengthy period of sick leave. My focus will be on two main aspects:
+I am developing [WillGro](https://github.com/TomokiYoshizawa/Willgro-New) to support a local business transition from a third-party platform to a custom platform built with Next.js and Tailwind CSS. This project focuses on replicating existing design and functionality to ensure seamless user transition, while also enhancing future scalability and configurability. Key features include MongoDB integration for robust data management and the use of modern development practices such as CI/CD, Git, and pair programming to ensure a maintainable and scalable solution.
 
-1. Completing the Existing Project: This includes finalizing the registration page, which is already prepared for API integration but lacks full implementation on the front end. Additionally, I plan to enhance the user management page to fully support profile picture uploads.
-
-2. Enhancing Functionality: I aim to add search and save capabilities to the backend, allowing users to interact with recipes more dynamically. Furthermore, considering improvements to the front-end visual looking is also on my agenda.
-
-My goal is to achieve these objectives by the first quarter before introducing additional features. In terms of broader project enhancements, I'm looking to apply Progressive Web App (PWA) technology to make the existing project accessible to users on various platforms, including mobile, without relying directly on React Native. Meanwhile, learning React Native and C# is on my to-do list for the first half of 2024.
+Once the project is completed. I will start working on Dapps by utilizing Remix and Solidity.
 
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
@@ -30,15 +26,21 @@ My goal is to achieve these objectives by the first quarter before introducing a
 - Personal Page: [devs.vankee.space](https://devs.vankee.space)
 
 ### 💻 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+
 
 
 
