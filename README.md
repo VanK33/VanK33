@@ -16,7 +16,6 @@ Once the project is completed. I will start working on Dapps by utilizing Remix 
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <img style="width: 40%, height: 100px" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
-    <img style="width: 40%, height: 100px" src="https://github-readme-stats.vercel.app/api?username=VanK33&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" />
 </div>
 
 
