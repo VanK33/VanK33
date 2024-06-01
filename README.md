@@ -5,13 +5,11 @@
 
 ### 🙋🏻‍♂️ About Me ###
 
-With expertise in React, Node.js, MySQL, JavaScript, and Excel VBA, I bring a diverse skill set to my role as a Teaching Assistant at BrainStation. This position allows me to fully immerse myself in the field, providing numerous opportunities to refine my code review skills and mentor aspiring developers. I am genuinely interested in leveraging my toolkit for real-world applications, using my methodical problem-solving abilities to make a tangible impact. My pursuit of practical experience reflects my commitment to continuous learning and professional growth, as I strive to stay at the forefront of technological advancements.
+With expertise in React, Node.js, MySQL, JavaScript, Typescript, and Excel VBA, I bring a diverse skill set to my role as a Teaching Assistant at BrainStation. This position allows me to fully immerse myself in the field, providing numerous opportunities to refine my code review skills and mentor aspiring developers. I am genuinely interested in leveraging my toolkit for real-world applications, using my methodical problem-solving abilities to make a tangible impact. My pursuit of practical experience reflects my commitment to continuous learning and professional growth, as I strive to stay at the forefront of technological advancements.
 
 ### 🏗️ Plans and Horizon ###
 
-I am developing [WillGro](https://github.com/TomokiYoshizawa/Willgro-New) to support a local business transition from a third-party platform to a custom platform built with Next.js and Tailwind CSS. This project focuses on replicating existing design and functionality to ensure seamless user transition, while also enhancing future scalability and configurability. Key features include MongoDB integration for robust data management and the use of modern development practices such as CI/CD, Git, and pair programming to ensure a maintainable and scalable solution.
-
-Once the project is completed. I will start working on Dapps by utilizing Remix and Solidity.
+I am developing [TradingBot](https://github.com/VanK33/trading-bot) as a practical exercise to deepen my understanding of class-based software development protocols with Typescript and to practice unit and integration testing using Jest. The goal of this project is to design an autonomous trading bot that utilizes the [InteractiveBrokers Typescript API](https://github.com/stoqey/ib) ported by Stoqey. Currently, the project includes only a limited set of strategies, reflecting my existing knowledge. Significant enhancements will be necessary before the bot is ready for serious investors.
 
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
