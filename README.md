@@ -15,7 +15,7 @@ I am currently pursuing a Master's in Computer Science at Northeastern Universit
 
 ### 🏗️ Plans and Horizon ###
 
-WIP
+At the moment, my primary focus is on my graduate studies in Computer Science at Northeastern University. However, I am also dedicating time to learning Unity to develop early models of game ideas. This will allow me to apply my coding skills in a creative, practical way while continuing to grow my expertise in game development.
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <img style="width: 40%, height: 100px" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
