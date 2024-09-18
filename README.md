@@ -5,12 +5,17 @@
 
 ### 🙋🏻‍♂️ About Me ###
 
-With expertise in React, Node.js, MySQL, JavaScript, Typescript, and Excel VBA, I bring a diverse skill set to my role as a Teaching Assistant at BrainStation. This position allows me to fully immerse myself in the field, providing numerous opportunities to refine my code review skills and mentor aspiring developers. I am genuinely interested in leveraging my toolkit for real-world applications, using my methodical problem-solving abilities to make a tangible impact. My pursuit of practical experience reflects my commitment to continuous learning and professional growth, as I strive to stay at the forefront of technological advancements.
+Hi there 👋 I'm Yifei Ma
+I am currently pursuing a Master's in Computer Science at Northeastern University. Prior to this, I transitioned into tech through BrainStation, where I honed my skills in software development and data analysis. My interests span across game development, software engineering, and creative problem-solving through technology.
+
+🌱 I’m currently learning Unity and expanding my knowledge in game development.
+🎮 In my free time, I enjoy gaming and snowboarding.
+💡 I'm passionate about exploring the intersection of technology and creativity.
+🔭 I’m always looking for opportunities to collaborate on open-source projects or game development.
 
 ### 🏗️ Plans and Horizon ###
 
-I am developing [TradingBot](https://github.com/VanK33/trading-bot) as a practical exercise to deepen my understanding of class-based software development protocols with Typescript and to practice unit and integration testing using Jest. The goal of this project is to design an autonomous trading bot that utilizes the [InteractiveBrokers Typescript API](https://github.com/stoqey/ib) ported by Stoqey. Currently, the project includes only a limited set of strategies, reflecting my existing knowledge. Significant enhancements will be necessary before the bot is ready for serious investors.
-
+WIP
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <img style="width: 40%, height: 100px" src="https://github-readme-streak-stats.herokuapp.com/?user=vank33&show_icons=true&theme=radical" alt="vank33" />
