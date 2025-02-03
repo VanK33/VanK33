@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Yifei, welcome to my Workspace #
 
-## **Junior Full Stack Developer - Vancouver, BC** ##
+## **Independent SDE - Vancouver, BC** ##
 
 ### 🙋🏻‍♂️ About Me ###
 
