@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Yifei, welcome to my Workspace #
 
-## **Independent SDE - Vancouver, BC** ##
+## ** MSCS @ NEU, VP @ PFL - Vancouver, BC** ##
 
 ### 🙋🏻‍♂️ About Me ###
 
