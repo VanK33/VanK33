@@ -51,7 +51,7 @@ I’m especially interested in the creative space between **tools and experience
 
 ## ✍️ Current Projects
 
-- 🎮 **[2D Game Engine (C++/SDL3)](https://github.com/VanK33/2d-engine)** – Entity-Component-System based, no singletons, modular design
+- 🎮 **[2D Game Engine (C++/SDL3)](https://github.com/VanK33/2DGameEngine)** – Entity-Component-System based, no singletons, modular design
 - 🧠 **OnCallGuide.ai** – Voice-to-text-to-AI system using Retrieval-Augmented Generation (RAG) to provide real-time guidance
 
 ---
